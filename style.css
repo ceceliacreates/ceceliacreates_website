@@ -1,0 +1,26 @@
+.nav {
+    
+}
+
+.social {
+    padding: 10px;
+    color: #437c90
+}
+
+.icon {
+    margin: 0px 2px 0px 2px;
+}
+
+.footer {
+    margin: 10px 0px 0px 0px;
+}
+
+.cover {
+    max-width: 250px;
+    height: auto;
+    margin: 5px;
+}
+
+#red-cover {
+    border: black solid 1px;
+}
