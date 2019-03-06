@@ -21,6 +21,12 @@
     margin: 5px;
 }
 
-#red-cover {
+.album {
+    max-width: 250px;
+    height: auto;
+    margin: 5px;
+}
+
+.need-border {
     border: black solid 1px;
 }
