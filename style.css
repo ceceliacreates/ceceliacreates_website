@@ -46,6 +46,12 @@ body {
     margin: 5px;
 }
 
+.webscreen {
+    max-width: 400px;
+    height: auto;
+    margin: 5px;
+}
+
 .need-border {
     border: black solid 1px;
 }
